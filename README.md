@@ -20,7 +20,6 @@ Meu próprio Alexandre de Moraes
 
   > Moraes, Alexandre de
   > Direito constitucional / Alexandre de Moraes. – 33. ed. rev. e atual. até a EC nº 95, de 15 de dezembro de 2016 – São Paulo: Atlas, 2017.
-
-*como bota o arquivo?*
+    [Clique aqui para visualizar o PDF](alexandre_de_moraes_-_direito_constitucional_-_atualizado_at_ec_95_de_15-dez-2016_-_2017_pdf_.pdf) 
 
 # Engenharia de Prompts e "Cicatrizes"
