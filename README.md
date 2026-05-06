@@ -69,6 +69,9 @@ No contexto mais amplo de classificação, a CF/88 possui uma identidade bem def
   
 Essa origem popular é o que fundamenta o Brasil como um Estado Democrático de Direito.
 
+> Guia definitido: Classificação da Constituição Federal de 1988  [Clique aqui para visualizar o infográfico](info_classificação_cf.png) 
+
+
 ## Glossário: principais conceitos classificação da CF/88
 - Analítica: É a constituição detalhista e prolixa que regulamenta diversos temas além da estrutura básica do Estado.
 - Dogmática: Elaborada em um momento específico por um órgão constituinte, consolidando os dogmas políticos e jurídicos dominantes na época.
